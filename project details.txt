@@ -1,0 +1,29 @@
+Savings Tracker: match the spreadsheet linked below (just the ‘Savings Goal’ sheet), including the design as much as possible, starting in the ‘goal’ column, down to row 22 (let me know if you can’t keep the design as columns). It will have space for 3 rows of goals.
+
+- Add the math for the ‘already saved’ column - users should be able to insert how much money they already have saved up for that goal, and then it will add that amount to the total for that goal and reduce the number of months left to reach that goal
+
+- Remove the ‘starting date’ - the calculator will instead assume the starting date is the date they are filling it out
+
+
+
+https://docs.google.com/spreadsheets/d/1BrDweAOMKOP1HG9wBiOUm65nl6uj5t17SWfsvf4c9sI/edit?usp=sharing
+
+
+
+Please let me know if the design isn't possible. I know it's not an optimal design - my client really wanted it to match her spreadsheet exactly. So just let me know if there are any issues and what you suggest.
+
+
+
+Here is a link to the Desktop version (you ONLY need to do the calculator, not the website or headings or anything): https://xd.adobe.com/view/44d31c89-5c82-48a9-a865-29f01bd21f50-1180/
+
+
+
+Mobile look: https://xd.adobe.com/view/4b66ed46-e703-44dc-8b4b-c9378de5c7b5-1e35/
+
+
+
+Fonts:
+
+https://fonts.google.com/specimen/Nunito+Sans
+
+https://fonts.google.com/specimen/EB+Garamond
